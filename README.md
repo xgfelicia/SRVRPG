@@ -22,6 +22,7 @@ ARXIV: [Sample Efficient Policy Gradient Methods with Recursive Variance Reducti
 * No such file `...rllab/envs/box2d/models/cartpole.xml.mako`
   - Run setup install again with `misc-files/setup.py` and `misc-files/MANIFEST.in`
 
-### Additional code sources: 
+#### Additional code sources: 
 - Papini, M., Binaghi, D., Canonaco, G., Pirotta, M., & Restelli, M. (2018). Stochastic Variance-Reduced Policy Gradient. _ICML._
 - SVRPG original implementation: https://github.com/Dam930/rllab
+- rllab: https://github.com/rll/rllab
